@@ -1,0 +1,27 @@
+.hacia-la-derecha {
+  float: right;
+}
+
+ul {
+  padding-left: 0;
+  list-style-type: none;
+  position: relative;
+  bottom: 20px;
+}
+
+li {
+  display: inline-block;
+  margin: 20px;
+  background: green;
+  padding: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.image-block {
+  display: inline-block;
+  text-align: center;
+}
